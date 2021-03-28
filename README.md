@@ -7,11 +7,13 @@
 </td>
 <td width="50%">
 
-  
-## Call me Bee 🐝
-she/her 🏳‍🌈
+<p align="center">Call me Bee 🐝<br>
+she/her 🏳‍🌈<br><br>
+<a href="https://ko-fi.com/C0C2438H4">
+<img src="https://ko-fi.com/img/githubbutton_sm.svg"/>
+<a/>
+</p>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C2438H4)
 
 </td>
 </tr>
